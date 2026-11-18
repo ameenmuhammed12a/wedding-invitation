@@ -1,0 +1,11 @@
+instance/
+.venv/
+venv/
+__pycache__/
+*.pyc
+backups/
+*.sqlite3
+*.db
+.DS_Store
+.vscode/
+.env
